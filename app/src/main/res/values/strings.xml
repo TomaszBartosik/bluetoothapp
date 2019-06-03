@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Pantry</string>
+    <string name="log">LOG</string>
+    <string name="toast">Toast</string>
+    <string name="przepisana_wiadomo">Przepisana wiadomość</string>
+
+    <string name="pole_testowe_wiadomo">Pole Testowe \'Wiadomość\'</string>
+    <string name="przepisana_wiad">przepisana wiadomosc</string>
+
+</resources>
